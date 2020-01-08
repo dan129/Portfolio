@@ -1,0 +1,14 @@
+__pycache__
+/.pydevproject
+/.project
+.settings
+/images/*.psd
+/images/est.png
+/images/nord.png
+/images/ouest.png
+/images/rdv.png
+/images/sud.png
+/images/tileset
+/images/lapin.png
+/images/lapinOriginal.jpg
+/images/Animaux/lapinDevant.png
