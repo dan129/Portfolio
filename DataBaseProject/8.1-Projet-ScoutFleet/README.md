@@ -70,8 +70,8 @@ photo:[object Object]
 
 ## Authors
 
-* **MOhamed Ilias** 
-* **Dan Munteanu **
+* **Mohamed Ilias** 
+* **Dan Munteanu**
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
