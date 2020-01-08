@@ -13,3 +13,11 @@ Ce programme vise à simuler un environnement naturel le plus réaliste possible
 * Appuyer sur "Démarrer la simulation" pour commencer la simulation
 
 À partir de là, vous pouvez voir les animaux et les végétaux se déplacer sur le terrain. Ils évoluent ensemble dans un environnement qui change au fil des saisons et des années qui passent.
+
+## Authors
+
+* **Dan Munteanu** 
+* **Mohamed Ilias**
+* **Hiba Aneq**
+* **Maxime Denis**
+* **Ka-Son Chau**
