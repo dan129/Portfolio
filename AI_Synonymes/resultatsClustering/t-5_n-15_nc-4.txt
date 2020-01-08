@@ -1,0 +1,364 @@
+Arguments: C:\Users\Dralic\Desktop\Programmation\Session 5\cvm-b52-cooccs\src\main.py -c -t 5 -n 15 --nc 4 > ..\resultatsClustering\t-5_n-15_nc-4.txt 
+
+=========================================================================
+
+Itération #1
+Nombre de changements: 25402
+Nombre de mots dans le cluster #1: 21864
+Nombre de mots dans le cluster #2: 1782
+Nombre de mots dans le cluster #3: 1330
+Nombre de mots dans le cluster #4: 426
+
+
+=========================================================================
+
+Itération #2
+Nombre de changements: 3237
+Nombre de mots dans le cluster #1: 21147
+Nombre de mots dans le cluster #2: 475
+Nombre de mots dans le cluster #3: 535
+Nombre de mots dans le cluster #4: 3245
+
+
+=========================================================================
+
+Itération #3
+Nombre de changements: 1123
+Nombre de mots dans le cluster #1: 21618
+Nombre de mots dans le cluster #2: 163
+Nombre de mots dans le cluster #3: 840
+Nombre de mots dans le cluster #4: 2781
+
+
+=========================================================================
+
+Itération #4
+Nombre de changements: 626
+Nombre de mots dans le cluster #1: 21893
+Nombre de mots dans le cluster #2: 65
+Nombre de mots dans le cluster #3: 711
+Nombre de mots dans le cluster #4: 2733
+
+
+=========================================================================
+
+Itération #5
+Nombre de changements: 686
+Nombre de mots dans le cluster #1: 22279
+Nombre de mots dans le cluster #2: 38
+Nombre de mots dans le cluster #3: 465
+Nombre de mots dans le cluster #4: 2620
+
+
+=========================================================================
+
+Itération #6
+Nombre de changements: 740
+Nombre de mots dans le cluster #1: 22848
+Nombre de mots dans le cluster #2: 30
+Nombre de mots dans le cluster #3: 310
+Nombre de mots dans le cluster #4: 2214
+
+
+=========================================================================
+
+Itération #7
+Nombre de changements: 652
+Nombre de mots dans le cluster #1: 23397
+Nombre de mots dans le cluster #2: 25
+Nombre de mots dans le cluster #3: 217
+Nombre de mots dans le cluster #4: 1763
+
+
+=========================================================================
+
+Itération #8
+Nombre de changements: 505
+Nombre de mots dans le cluster #1: 23833
+Nombre de mots dans le cluster #2: 21
+Nombre de mots dans le cluster #3: 156
+Nombre de mots dans le cluster #4: 1392
+
+
+=========================================================================
+
+Itération #9
+Nombre de changements: 395
+Nombre de mots dans le cluster #1: 24167
+Nombre de mots dans le cluster #2: 18
+Nombre de mots dans le cluster #3: 101
+Nombre de mots dans le cluster #4: 1116
+
+
+=========================================================================
+
+Itération #10
+Nombre de changements: 346
+Nombre de mots dans le cluster #1: 24469
+Nombre de mots dans le cluster #2: 15
+Nombre de mots dans le cluster #3: 63
+Nombre de mots dans le cluster #4: 855
+
+
+=========================================================================
+
+Itération #11
+Nombre de changements: 274
+Nombre de mots dans le cluster #1: 24721
+Nombre de mots dans le cluster #2: 12
+Nombre de mots dans le cluster #3: 47
+Nombre de mots dans le cluster #4: 622
+
+
+=========================================================================
+
+Itération #12
+Nombre de changements: 187
+Nombre de mots dans le cluster #1: 24894
+Nombre de mots dans le cluster #2: 11
+Nombre de mots dans le cluster #3: 35
+Nombre de mots dans le cluster #4: 462
+
+
+=========================================================================
+
+Itération #13
+Nombre de changements: 105
+Nombre de mots dans le cluster #1: 24996
+Nombre de mots dans le cluster #2: 11
+Nombre de mots dans le cluster #3: 32
+Nombre de mots dans le cluster #4: 363
+
+
+=========================================================================
+
+Itération #14
+Nombre de changements: 67
+Nombre de mots dans le cluster #1: 25062
+Nombre de mots dans le cluster #2: 11
+Nombre de mots dans le cluster #3: 31
+Nombre de mots dans le cluster #4: 298
+
+
+=========================================================================
+
+Itération #15
+Nombre de changements: 33
+Nombre de mots dans le cluster #1: 25093
+Nombre de mots dans le cluster #2: 11
+Nombre de mots dans le cluster #3: 29
+Nombre de mots dans le cluster #4: 269
+
+
+=========================================================================
+
+Itération #16
+Nombre de changements: 24
+Nombre de mots dans le cluster #1: 25115
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 29
+Nombre de mots dans le cluster #4: 248
+
+
+=========================================================================
+
+Itération #17
+Nombre de changements: 19
+Nombre de mots dans le cluster #1: 25133
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 231
+
+
+=========================================================================
+
+Itération #18
+Nombre de changements: 13
+Nombre de mots dans le cluster #1: 25146
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 218
+
+
+=========================================================================
+
+Itération #19
+Nombre de changements: 11
+Nombre de mots dans le cluster #1: 25157
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 207
+
+
+=========================================================================
+
+Itération #20
+Nombre de changements: 7
+Nombre de mots dans le cluster #1: 25164
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 200
+
+
+=========================================================================
+
+Itération #21
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 25167
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 197
+
+
+=========================================================================
+
+Itération #22
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 25170
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 194
+
+
+=========================================================================
+
+Itération #23
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 25173
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 191
+
+
+=========================================================================
+
+Itération #24
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 25176
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 188
+
+
+=========================================================================
+
+Itération #25
+Nombre de changements: 4
+Nombre de mots dans le cluster #1: 25180
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 184
+
+
+=========================================================================
+
+Itération #26
+Nombre de changements: 4
+Nombre de mots dans le cluster #1: 25184
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 180
+
+
+=========================================================================
+
+Itération #27
+Nombre de changements: 1
+Nombre de mots dans le cluster #1: 25185
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 179
+
+
+=========================================================================
+
+Itération #28
+Nombre de changements: 0
+Nombre de mots dans le cluster #1: 25185
+Nombre de mots dans le cluster #2: 10
+Nombre de mots dans le cluster #3: 28
+Nombre de mots dans le cluster #4: 179
+
+
+=========================================================================
+
+Nombre d'itérations total: 28
+Temps total pour effectuer les opérations: 178.2832474708557
+
+
+=========================================================================
+
+Cluster #1:
+   - the
+   - project
+   - gutenberg
+   - ebook
+   - of
+   - germinal
+   - by
+   - emile
+   - zola
+   - 8
+   - in
+   - our
+   - series
+   - copyright
+   - laws
+   - are
+
+
+=========================================================================
+
+Cluster #2:
+   - les
+   - de
+   - la
+   - à
+   - et
+   - l
+   - un
+   - il
+   - le
+   - des
+
+
+=========================================================================
+
+Cluster #3:
+   - on
+   - n
+   - qui
+   - dans
+   - pour
+   - ce
+   - d
+   - une
+   - lui
+   - ne
+   - pas
+   - avait
+   - que
+   - du
+   - sur
+   - se
+
+
+=========================================================================
+
+Cluster #4:
+   - a
+   - nous
+   - sous
+   - nuit
+   - sans
+   - homme
+   - grande
+   - route
+   - montsou
+   - dix
+   - tout
+   - devant
+   - même
+   - par
+   - comme
+   - avoir

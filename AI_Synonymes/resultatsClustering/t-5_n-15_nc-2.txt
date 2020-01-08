@@ -1,0 +1,144 @@
+Arguments: C:\Users\Dralic\Desktop\Programmation\Session 5\cvm-b52-cooccs\src\main.py -c -t 5 -n 15 --nc 2 > t-5_n-15_nc-2.txt 
+
+=========================================================================
+
+Itération #1
+Nombre de changements: 25402
+Nombre de mots dans le cluster #1: 2961
+Nombre de mots dans le cluster #2: 22441
+
+
+=========================================================================
+
+Itération #2
+Nombre de changements: 2102
+Nombre de mots dans le cluster #1: 863
+Nombre de mots dans le cluster #2: 24539
+
+
+=========================================================================
+
+Itération #3
+Nombre de changements: 554
+Nombre de mots dans le cluster #1: 309
+Nombre de mots dans le cluster #2: 25093
+
+
+=========================================================================
+
+Itération #4
+Nombre de changements: 194
+Nombre de mots dans le cluster #1: 115
+Nombre de mots dans le cluster #2: 25287
+
+
+=========================================================================
+
+Itération #5
+Nombre de changements: 63
+Nombre de mots dans le cluster #1: 52
+Nombre de mots dans le cluster #2: 25350
+
+
+=========================================================================
+
+Itération #6
+Nombre de changements: 17
+Nombre de mots dans le cluster #1: 35
+Nombre de mots dans le cluster #2: 25367
+
+
+=========================================================================
+
+Itération #7
+Nombre de changements: 6
+Nombre de mots dans le cluster #1: 29
+Nombre de mots dans le cluster #2: 25373
+
+
+=========================================================================
+
+Itération #8
+Nombre de changements: 2
+Nombre de mots dans le cluster #1: 27
+Nombre de mots dans le cluster #2: 25375
+
+
+=========================================================================
+
+Itération #9
+Nombre de changements: 1
+Nombre de mots dans le cluster #1: 26
+Nombre de mots dans le cluster #2: 25376
+
+
+=========================================================================
+
+Itération #10
+Nombre de changements: 1
+Nombre de mots dans le cluster #1: 25
+Nombre de mots dans le cluster #2: 25377
+
+
+=========================================================================
+
+Itération #11
+Nombre de changements: 1
+Nombre de mots dans le cluster #1: 24
+Nombre de mots dans le cluster #2: 25378
+
+
+=========================================================================
+
+Itération #12
+Nombre de changements: 0
+Nombre de mots dans le cluster #1: 24
+Nombre de mots dans le cluster #2: 25378
+
+
+=========================================================================
+
+Nombre d'itérations total: 12
+Temps total pour effectuer les opérations: 54.77867937088013
+
+
+=========================================================================
+
+Cluster #1:
+   - les
+   - de
+   - la
+   - qui
+   - à
+   - dans
+   - et
+   - l
+   - d
+   - une
+   - un
+   - il
+   - pas
+   - le
+   - avait
+   - que
+
+
+=========================================================================
+
+Cluster #2:
+   - the
+   - project
+   - gutenberg
+   - ebook
+   - of
+   - germinal
+   - by
+   - emile
+   - zola
+   - 8
+   - in
+   - our
+   - series
+   - copyright
+   - laws
+   - are

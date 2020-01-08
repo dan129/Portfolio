@@ -1,0 +1,199 @@
+Arguments: C:\Users\Dralic\Desktop\Programmation\Session 5\cvm-b52-cooccs\src\main.py -c -t 5 -n 15 --nc 3 > ..\resultatsClustering\t-5_n-15_nc-3.txt 
+
+=========================================================================
+
+Itération #1
+Nombre de changements: 25402
+Nombre de mots dans le cluster #1: 1181
+Nombre de mots dans le cluster #2: 2028
+Nombre de mots dans le cluster #3: 22193
+
+
+=========================================================================
+
+Itération #2
+Nombre de changements: 2447
+Nombre de mots dans le cluster #1: 401
+Nombre de mots dans le cluster #2: 516
+Nombre de mots dans le cluster #3: 24485
+
+
+=========================================================================
+
+Itération #3
+Nombre de changements: 626
+Nombre de mots dans le cluster #1: 148
+Nombre de mots dans le cluster #2: 181
+Nombre de mots dans le cluster #3: 25073
+
+
+=========================================================================
+
+Itération #4
+Nombre de changements: 222
+Nombre de mots dans le cluster #1: 59
+Nombre de mots dans le cluster #2: 94
+Nombre de mots dans le cluster #3: 25249
+
+
+=========================================================================
+
+Itération #5
+Nombre de changements: 67
+Nombre de mots dans le cluster #1: 35
+Nombre de mots dans le cluster #2: 157
+Nombre de mots dans le cluster #3: 25210
+
+
+=========================================================================
+
+Itération #6
+Nombre de changements: 24
+Nombre de mots dans le cluster #1: 27
+Nombre de mots dans le cluster #2: 169
+Nombre de mots dans le cluster #3: 25206
+
+
+=========================================================================
+
+Itération #7
+Nombre de changements: 22
+Nombre de mots dans le cluster #1: 22
+Nombre de mots dans le cluster #2: 157
+Nombre de mots dans le cluster #3: 25223
+
+
+=========================================================================
+
+Itération #8
+Nombre de changements: 34
+Nombre de mots dans le cluster #1: 20
+Nombre de mots dans le cluster #2: 127
+Nombre de mots dans le cluster #3: 25255
+
+
+=========================================================================
+
+Itération #9
+Nombre de changements: 37
+Nombre de mots dans le cluster #1: 17
+Nombre de mots dans le cluster #2: 96
+Nombre de mots dans le cluster #3: 25289
+
+
+=========================================================================
+
+Itération #10
+Nombre de changements: 30
+Nombre de mots dans le cluster #1: 15
+Nombre de mots dans le cluster #2: 70
+Nombre de mots dans le cluster #3: 25317
+
+
+=========================================================================
+
+Itération #11
+Nombre de changements: 21
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 55
+Nombre de mots dans le cluster #3: 25335
+
+
+=========================================================================
+
+Itération #12
+Nombre de changements: 15
+Nombre de mots dans le cluster #1: 11
+Nombre de mots dans le cluster #2: 42
+Nombre de mots dans le cluster #3: 25349
+
+
+=========================================================================
+
+Itération #13
+Nombre de changements: 7
+Nombre de mots dans le cluster #1: 11
+Nombre de mots dans le cluster #2: 35
+Nombre de mots dans le cluster #3: 25356
+
+
+=========================================================================
+
+Itération #14
+Nombre de changements: 2
+Nombre de mots dans le cluster #1: 11
+Nombre de mots dans le cluster #2: 33
+Nombre de mots dans le cluster #3: 25358
+
+
+=========================================================================
+
+Itération #15
+Nombre de changements: 0
+Nombre de mots dans le cluster #1: 11
+Nombre de mots dans le cluster #2: 33
+Nombre de mots dans le cluster #3: 25358
+
+
+=========================================================================
+
+Nombre d'itérations total: 15
+Temps total pour effectuer les opérations: 80.07922029495239
+
+
+=========================================================================
+
+Cluster #1:
+   - les
+   - de
+   - la
+   - à
+   - et
+   - l
+   - une
+   - un
+   - il
+   - le
+   - des
+
+
+=========================================================================
+
+Cluster #2:
+   - on
+   - n
+   - qui
+   - dans
+   - pour
+   - ce
+   - d
+   - tout
+   - lui
+   - ne
+   - pas
+   - avait
+   - que
+   - par
+   - du
+   - comme
+
+
+=========================================================================
+
+Cluster #3:
+   - the
+   - project
+   - gutenberg
+   - ebook
+   - of
+   - germinal
+   - by
+   - emile
+   - zola
+   - 8
+   - in
+   - our
+   - series
+   - copyright
+   - laws
+   - are

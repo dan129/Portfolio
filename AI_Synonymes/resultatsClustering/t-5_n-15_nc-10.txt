@@ -1,0 +1,1198 @@
+Arguments: C:\Users\Dralic\Desktop\Programmation\Session 5\cvm-b52-cooccs\src\main.py -c -t 5 -n 15 --nc 10 > ..\resultatsClustering\t-5_n-15_nc-10.txt 
+
+=========================================================================
+
+Itération #1
+Nombre de changements: 25402
+Nombre de mots dans le cluster #1: 196
+Nombre de mots dans le cluster #2: 471
+Nombre de mots dans le cluster #3: 20405
+Nombre de mots dans le cluster #4: 598
+Nombre de mots dans le cluster #5: 503
+Nombre de mots dans le cluster #6: 1676
+Nombre de mots dans le cluster #7: 589
+Nombre de mots dans le cluster #8: 481
+Nombre de mots dans le cluster #9: 215
+Nombre de mots dans le cluster #10: 268
+
+
+=========================================================================
+
+Itération #2
+Nombre de changements: 3638
+Nombre de mots dans le cluster #1: 360
+Nombre de mots dans le cluster #2: 795
+Nombre de mots dans le cluster #3: 18970
+Nombre de mots dans le cluster #4: 1187
+Nombre de mots dans le cluster #5: 728
+Nombre de mots dans le cluster #6: 450
+Nombre de mots dans le cluster #7: 1218
+Nombre de mots dans le cluster #8: 900
+Nombre de mots dans le cluster #9: 378
+Nombre de mots dans le cluster #10: 416
+
+
+=========================================================================
+
+Itération #3
+Nombre de changements: 2145
+Nombre de mots dans le cluster #1: 388
+Nombre de mots dans le cluster #2: 875
+Nombre de mots dans le cluster #3: 18709
+Nombre de mots dans le cluster #4: 1243
+Nombre de mots dans le cluster #5: 523
+Nombre de mots dans le cluster #6: 159
+Nombre de mots dans le cluster #7: 1643
+Nombre de mots dans le cluster #8: 725
+Nombre de mots dans le cluster #9: 275
+Nombre de mots dans le cluster #10: 862
+
+
+=========================================================================
+
+Itération #4
+Nombre de changements: 1771
+Nombre de mots dans le cluster #1: 285
+Nombre de mots dans le cluster #2: 810
+Nombre de mots dans le cluster #3: 18848
+Nombre de mots dans le cluster #4: 1192
+Nombre de mots dans le cluster #5: 337
+Nombre de mots dans le cluster #6: 63
+Nombre de mots dans le cluster #7: 1725
+Nombre de mots dans le cluster #8: 442
+Nombre de mots dans le cluster #9: 412
+Nombre de mots dans le cluster #10: 1288
+
+
+=========================================================================
+
+Itération #5
+Nombre de changements: 1782
+Nombre de mots dans le cluster #1: 212
+Nombre de mots dans le cluster #2: 619
+Nombre de mots dans le cluster #3: 19270
+Nombre de mots dans le cluster #4: 957
+Nombre de mots dans le cluster #5: 181
+Nombre de mots dans le cluster #6: 36
+Nombre de mots dans le cluster #7: 1547
+Nombre de mots dans le cluster #8: 260
+Nombre de mots dans le cluster #9: 552
+Nombre de mots dans le cluster #10: 1768
+
+
+=========================================================================
+
+Itération #6
+Nombre de changements: 1480
+Nombre de mots dans le cluster #1: 148
+Nombre de mots dans le cluster #2: 470
+Nombre de mots dans le cluster #3: 19532
+Nombre de mots dans le cluster #4: 700
+Nombre de mots dans le cluster #5: 110
+Nombre de mots dans le cluster #6: 29
+Nombre de mots dans le cluster #7: 1215
+Nombre de mots dans le cluster #8: 222
+Nombre de mots dans le cluster #9: 559
+Nombre de mots dans le cluster #10: 2417
+
+
+=========================================================================
+
+Itération #7
+Nombre de changements: 1061
+Nombre de mots dans le cluster #1: 90
+Nombre de mots dans le cluster #2: 356
+Nombre de mots dans le cluster #3: 19669
+Nombre de mots dans le cluster #4: 512
+Nombre de mots dans le cluster #5: 81
+Nombre de mots dans le cluster #6: 24
+Nombre de mots dans le cluster #7: 1046
+Nombre de mots dans le cluster #8: 239
+Nombre de mots dans le cluster #9: 501
+Nombre de mots dans le cluster #10: 2884
+
+
+=========================================================================
+
+Itération #8
+Nombre de changements: 892
+Nombre de mots dans le cluster #1: 58
+Nombre de mots dans le cluster #2: 297
+Nombre de mots dans le cluster #3: 19729
+Nombre de mots dans le cluster #4: 391
+Nombre de mots dans le cluster #5: 60
+Nombre de mots dans le cluster #6: 19
+Nombre de mots dans le cluster #7: 960
+Nombre de mots dans le cluster #8: 225
+Nombre de mots dans le cluster #9: 457
+Nombre de mots dans le cluster #10: 3206
+
+
+=========================================================================
+
+Itération #9
+Nombre de changements: 752
+Nombre de mots dans le cluster #1: 43
+Nombre de mots dans le cluster #2: 279
+Nombre de mots dans le cluster #3: 19798
+Nombre de mots dans le cluster #4: 308
+Nombre de mots dans le cluster #5: 50
+Nombre de mots dans le cluster #6: 15
+Nombre de mots dans le cluster #7: 900
+Nombre de mots dans le cluster #8: 200
+Nombre de mots dans le cluster #9: 401
+Nombre de mots dans le cluster #10: 3408
+
+
+=========================================================================
+
+Itération #10
+Nombre de changements: 628
+Nombre de mots dans le cluster #1: 34
+Nombre de mots dans le cluster #2: 231
+Nombre de mots dans le cluster #3: 19917
+Nombre de mots dans le cluster #4: 237
+Nombre de mots dans le cluster #5: 45
+Nombre de mots dans le cluster #6: 12
+Nombre de mots dans le cluster #7: 886
+Nombre de mots dans le cluster #8: 169
+Nombre de mots dans le cluster #9: 376
+Nombre de mots dans le cluster #10: 3495
+
+
+=========================================================================
+
+Itération #11
+Nombre de changements: 532
+Nombre de mots dans le cluster #1: 30
+Nombre de mots dans le cluster #2: 173
+Nombre de mots dans le cluster #3: 20092
+Nombre de mots dans le cluster #4: 198
+Nombre de mots dans le cluster #5: 43
+Nombre de mots dans le cluster #6: 11
+Nombre de mots dans le cluster #7: 916
+Nombre de mots dans le cluster #8: 133
+Nombre de mots dans le cluster #9: 349
+Nombre de mots dans le cluster #10: 3457
+
+
+=========================================================================
+
+Itération #12
+Nombre de changements: 470
+Nombre de mots dans le cluster #1: 27
+Nombre de mots dans le cluster #2: 129
+Nombre de mots dans le cluster #3: 20239
+Nombre de mots dans le cluster #4: 160
+Nombre de mots dans le cluster #5: 35
+Nombre de mots dans le cluster #6: 11
+Nombre de mots dans le cluster #7: 963
+Nombre de mots dans le cluster #8: 106
+Nombre de mots dans le cluster #9: 311
+Nombre de mots dans le cluster #10: 3421
+
+
+=========================================================================
+
+Itération #13
+Nombre de changements: 431
+Nombre de mots dans le cluster #1: 27
+Nombre de mots dans le cluster #2: 94
+Nombre de mots dans le cluster #3: 20375
+Nombre de mots dans le cluster #4: 125
+Nombre de mots dans le cluster #5: 32
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 988
+Nombre de mots dans le cluster #8: 80
+Nombre de mots dans le cluster #9: 263
+Nombre de mots dans le cluster #10: 3408
+
+
+=========================================================================
+
+Itération #14
+Nombre de changements: 398
+Nombre de mots dans le cluster #1: 26
+Nombre de mots dans le cluster #2: 76
+Nombre de mots dans le cluster #3: 20535
+Nombre de mots dans le cluster #4: 98
+Nombre de mots dans le cluster #5: 28
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 960
+Nombre de mots dans le cluster #8: 62
+Nombre de mots dans le cluster #9: 236
+Nombre de mots dans le cluster #10: 3371
+
+
+=========================================================================
+
+Itération #15
+Nombre de changements: 406
+Nombre de mots dans le cluster #1: 26
+Nombre de mots dans le cluster #2: 66
+Nombre de mots dans le cluster #3: 20738
+Nombre de mots dans le cluster #4: 78
+Nombre de mots dans le cluster #5: 25
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 911
+Nombre de mots dans le cluster #8: 49
+Nombre de mots dans le cluster #9: 211
+Nombre de mots dans le cluster #10: 3288
+
+
+=========================================================================
+
+Itération #16
+Nombre de changements: 387
+Nombre de mots dans le cluster #1: 25
+Nombre de mots dans le cluster #2: 62
+Nombre de mots dans le cluster #3: 20953
+Nombre de mots dans le cluster #4: 61
+Nombre de mots dans le cluster #5: 24
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 859
+Nombre de mots dans le cluster #8: 38
+Nombre de mots dans le cluster #9: 193
+Nombre de mots dans le cluster #10: 3177
+
+
+=========================================================================
+
+Itération #17
+Nombre de changements: 385
+Nombre de mots dans le cluster #1: 24
+Nombre de mots dans le cluster #2: 61
+Nombre de mots dans le cluster #3: 21171
+Nombre de mots dans le cluster #4: 41
+Nombre de mots dans le cluster #5: 22
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 807
+Nombre de mots dans le cluster #8: 34
+Nombre de mots dans le cluster #9: 169
+Nombre de mots dans le cluster #10: 3063
+
+
+=========================================================================
+
+Itération #18
+Nombre de changements: 355
+Nombre de mots dans le cluster #1: 21
+Nombre de mots dans le cluster #2: 59
+Nombre de mots dans le cluster #3: 21392
+Nombre de mots dans le cluster #4: 31
+Nombre de mots dans le cluster #5: 23
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 737
+Nombre de mots dans le cluster #8: 34
+Nombre de mots dans le cluster #9: 157
+Nombre de mots dans le cluster #10: 2938
+
+
+=========================================================================
+
+Itération #19
+Nombre de changements: 338
+Nombre de mots dans le cluster #1: 21
+Nombre de mots dans le cluster #2: 59
+Nombre de mots dans le cluster #3: 21621
+Nombre de mots dans le cluster #4: 29
+Nombre de mots dans le cluster #5: 21
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 665
+Nombre de mots dans le cluster #8: 30
+Nombre de mots dans le cluster #9: 152
+Nombre de mots dans le cluster #10: 2794
+
+
+=========================================================================
+
+Itération #20
+Nombre de changements: 317
+Nombre de mots dans le cluster #1: 21
+Nombre de mots dans le cluster #2: 52
+Nombre de mots dans le cluster #3: 21861
+Nombre de mots dans le cluster #4: 27
+Nombre de mots dans le cluster #5: 20
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 637
+Nombre de mots dans le cluster #8: 28
+Nombre de mots dans le cluster #9: 141
+Nombre de mots dans le cluster #10: 2605
+
+
+=========================================================================
+
+Itération #21
+Nombre de changements: 274
+Nombre de mots dans le cluster #1: 20
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 22058
+Nombre de mots dans le cluster #4: 26
+Nombre de mots dans le cluster #5: 19
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 602
+Nombre de mots dans le cluster #8: 27
+Nombre de mots dans le cluster #9: 132
+Nombre de mots dans le cluster #10: 2462
+
+
+=========================================================================
+
+Itération #22
+Nombre de changements: 234
+Nombre de mots dans le cluster #1: 18
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 22224
+Nombre de mots dans le cluster #4: 26
+Nombre de mots dans le cluster #5: 19
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 570
+Nombre de mots dans le cluster #8: 28
+Nombre de mots dans le cluster #9: 119
+Nombre de mots dans le cluster #10: 2344
+
+
+=========================================================================
+
+Itération #23
+Nombre de changements: 255
+Nombre de mots dans le cluster #1: 18
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 22405
+Nombre de mots dans le cluster #4: 27
+Nombre de mots dans le cluster #5: 19
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 521
+Nombre de mots dans le cluster #8: 19
+Nombre de mots dans le cluster #9: 120
+Nombre de mots dans le cluster #10: 2219
+
+
+=========================================================================
+
+Itération #24
+Nombre de changements: 249
+Nombre de mots dans le cluster #1: 15
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 22570
+Nombre de mots dans le cluster #4: 25
+Nombre de mots dans le cluster #5: 18
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 484
+Nombre de mots dans le cluster #8: 18
+Nombre de mots dans le cluster #9: 109
+Nombre de mots dans le cluster #10: 2109
+
+
+=========================================================================
+
+Itération #25
+Nombre de changements: 211
+Nombre de mots dans le cluster #1: 15
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 22707
+Nombre de mots dans le cluster #4: 24
+Nombre de mots dans le cluster #5: 18
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 438
+Nombre de mots dans le cluster #8: 16
+Nombre de mots dans le cluster #9: 100
+Nombre de mots dans le cluster #10: 2029
+
+
+=========================================================================
+
+Itération #26
+Nombre de changements: 221
+Nombre de mots dans le cluster #1: 15
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 22855
+Nombre de mots dans le cluster #4: 24
+Nombre de mots dans le cluster #5: 15
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 388
+Nombre de mots dans le cluster #8: 15
+Nombre de mots dans le cluster #9: 95
+Nombre de mots dans le cluster #10: 1940
+
+
+=========================================================================
+
+Itération #27
+Nombre de changements: 196
+Nombre de mots dans le cluster #1: 14
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 22994
+Nombre de mots dans le cluster #4: 23
+Nombre de mots dans le cluster #5: 13
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 352
+Nombre de mots dans le cluster #8: 15
+Nombre de mots dans le cluster #9: 90
+Nombre de mots dans le cluster #10: 1845
+
+
+=========================================================================
+
+Itération #28
+Nombre de changements: 163
+Nombre de mots dans le cluster #1: 13
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 23113
+Nombre de mots dans le cluster #4: 22
+Nombre de mots dans le cluster #5: 11
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 320
+Nombre de mots dans le cluster #8: 14
+Nombre de mots dans le cluster #9: 92
+Nombre de mots dans le cluster #10: 1761
+
+
+=========================================================================
+
+Itération #29
+Nombre de changements: 168
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 23245
+Nombre de mots dans le cluster #4: 23
+Nombre de mots dans le cluster #5: 10
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 306
+Nombre de mots dans le cluster #8: 14
+Nombre de mots dans le cluster #9: 85
+Nombre de mots dans le cluster #10: 1652
+
+
+=========================================================================
+
+Itération #30
+Nombre de changements: 144
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 23353
+Nombre de mots dans le cluster #4: 23
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 286
+Nombre de mots dans le cluster #8: 13
+Nombre de mots dans le cluster #9: 82
+Nombre de mots dans le cluster #10: 1570
+
+
+=========================================================================
+
+Itération #31
+Nombre de changements: 128
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 23448
+Nombre de mots dans le cluster #4: 23
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 280
+Nombre de mots dans le cluster #8: 13
+Nombre de mots dans le cluster #9: 68
+Nombre de mots dans le cluster #10: 1494
+
+
+=========================================================================
+
+Itération #32
+Nombre de changements: 115
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 23521
+Nombre de mots dans le cluster #4: 22
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 258
+Nombre de mots dans le cluster #8: 13
+Nombre de mots dans le cluster #9: 59
+Nombre de mots dans le cluster #10: 1453
+
+
+=========================================================================
+
+Itération #33
+Nombre de changements: 109
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 46
+Nombre de mots dans le cluster #3: 23595
+Nombre de mots dans le cluster #4: 22
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 236
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 54
+Nombre de mots dans le cluster #10: 1407
+
+
+=========================================================================
+
+Itération #34
+Nombre de changements: 119
+Nombre de mots dans le cluster #1: 12
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 23686
+Nombre de mots dans le cluster #4: 21
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 228
+Nombre de mots dans le cluster #8: 11
+Nombre de mots dans le cluster #9: 48
+Nombre de mots dans le cluster #10: 1333
+
+
+=========================================================================
+
+Itération #35
+Nombre de changements: 106
+Nombre de mots dans le cluster #1: 11
+Nombre de mots dans le cluster #2: 45
+Nombre de mots dans le cluster #3: 23764
+Nombre de mots dans le cluster #4: 21
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 212
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 43
+Nombre de mots dans le cluster #10: 1276
+
+
+=========================================================================
+
+Itération #36
+Nombre de changements: 86
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 23831
+Nombre de mots dans le cluster #4: 21
+Nombre de mots dans le cluster #5: 8
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 200
+Nombre de mots dans le cluster #8: 13
+Nombre de mots dans le cluster #9: 41
+Nombre de mots dans le cluster #10: 1224
+
+
+=========================================================================
+
+Itération #37
+Nombre de changements: 69
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 23886
+Nombre de mots dans le cluster #4: 21
+Nombre de mots dans le cluster #5: 7
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 188
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 43
+Nombre de mots dans le cluster #10: 1181
+
+
+=========================================================================
+
+Itération #38
+Nombre de changements: 56
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 23928
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 187
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 39
+Nombre de mots dans le cluster #10: 1146
+
+
+=========================================================================
+
+Itération #39
+Nombre de changements: 51
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 42
+Nombre de mots dans le cluster #3: 23963
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 181
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 36
+Nombre de mots dans le cluster #10: 1122
+
+
+=========================================================================
+
+Itération #40
+Nombre de changements: 41
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 42
+Nombre de mots dans le cluster #3: 23988
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 171
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 33
+Nombre de mots dans le cluster #10: 1110
+
+
+=========================================================================
+
+Itération #41
+Nombre de changements: 58
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24027
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 156
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 31
+Nombre de mots dans le cluster #10: 1087
+
+
+=========================================================================
+
+Itération #42
+Nombre de changements: 68
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24084
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 147
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 30
+Nombre de mots dans le cluster #10: 1040
+
+
+=========================================================================
+
+Itération #43
+Nombre de changements: 50
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24127
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 142
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 29
+Nombre de mots dans le cluster #10: 1003
+
+
+=========================================================================
+
+Itération #44
+Nombre de changements: 48
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24169
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 136
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 29
+Nombre de mots dans le cluster #10: 967
+
+
+=========================================================================
+
+Itération #45
+Nombre de changements: 35
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24197
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 131
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 945
+
+
+=========================================================================
+
+Itération #46
+Nombre de changements: 42
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24233
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 125
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 915
+
+
+=========================================================================
+
+Itération #47
+Nombre de changements: 43
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24270
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 119
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 884
+
+
+=========================================================================
+
+Itération #48
+Nombre de changements: 43
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24309
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 115
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 849
+
+
+=========================================================================
+
+Itération #49
+Nombre de changements: 38
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24345
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 113
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 815
+
+
+=========================================================================
+
+Itération #50
+Nombre de changements: 20
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24363
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 111
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 799
+
+
+=========================================================================
+
+Itération #51
+Nombre de changements: 18
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24381
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 111
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 781
+
+
+=========================================================================
+
+Itération #52
+Nombre de changements: 11
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24392
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 111
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 770
+
+
+=========================================================================
+
+Itération #53
+Nombre de changements: 4
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24396
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 111
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 766
+
+
+=========================================================================
+
+Itération #54
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24398
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 110
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 765
+
+
+=========================================================================
+
+Itération #55
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 43
+Nombre de mots dans le cluster #3: 24400
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 109
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 764
+
+
+=========================================================================
+
+Itération #56
+Nombre de changements: 4
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24402
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 107
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 763
+
+
+=========================================================================
+
+Itération #57
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24405
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 107
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 760
+
+
+=========================================================================
+
+Itération #58
+Nombre de changements: 2
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24407
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 107
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 758
+
+
+=========================================================================
+
+Itération #59
+Nombre de changements: 4
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24410
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 106
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 756
+
+
+=========================================================================
+
+Itération #60
+Nombre de changements: 3
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24413
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 106
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 753
+
+
+=========================================================================
+
+Itération #61
+Nombre de changements: 2
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24415
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 106
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 751
+
+
+=========================================================================
+
+Itération #62
+Nombre de changements: 2
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24417
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 106
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 749
+
+
+=========================================================================
+
+Itération #63
+Nombre de changements: 0
+Nombre de mots dans le cluster #1: 10
+Nombre de mots dans le cluster #2: 44
+Nombre de mots dans le cluster #3: 24417
+Nombre de mots dans le cluster #4: 20
+Nombre de mots dans le cluster #5: 6
+Nombre de mots dans le cluster #6: 10
+Nombre de mots dans le cluster #7: 106
+Nombre de mots dans le cluster #8: 12
+Nombre de mots dans le cluster #9: 28
+Nombre de mots dans le cluster #10: 749
+
+
+=========================================================================
+
+Nombre d'itérations total: 63
+Temps total pour effectuer les opérations: 696.933566570282
+
+
+=========================================================================
+
+Cluster #1:
+   - n
+   - d
+   - ne
+   - avait
+   - se
+   - était
+   - s
+   - qu
+   - y
+   - en
+
+
+=========================================================================
+
+Cluster #2:
+   - homme
+   - ciel
+   - milieu
+   - petit
+   - fond
+   - travail
+   - jour
+   - besoin
+   - instant
+   - bon
+   - feu
+   - dos
+   - gros
+   - vieux
+   - silence
+   - voreux
+
+
+=========================================================================
+
+Cluster #3:
+   - the
+   - project
+   - gutenberg
+   - ebook
+   - of
+   - germinal
+   - by
+   - emile
+   - zola
+   - 8
+   - in
+   - our
+   - series
+   - copyright
+   - laws
+   - are
+
+
+=========================================================================
+
+Cluster #4:
+   - deux
+   - mains
+   - trois
+   - étaient
+   - ouvriers
+   - avaient
+   - coups
+   - bras
+   - entre
+   - yeux
+   - hommes
+   - autres
+   - tous
+   - toutes
+   - maheu
+   - épaules
+
+
+=========================================================================
+
+Cluster #5:
+   - qui
+   - dans
+   - pour
+   - que
+   - du
+   - sur
+
+
+=========================================================================
+
+Cluster #6:
+   - les
+   - de
+   - la
+   - à
+   - et
+   - l
+   - un
+   - il
+   - le
+   - des
+
+
+=========================================================================
+
+Cluster #7:
+   - nous
+   - nuit
+   - grande
+   - route
+   - montsou
+   - devant
+   - avoir
+   - heures
+   - contre
+   - fois
+   - idée
+   - tête
+   - depuis
+   - heure
+   - ainsi
+   - lorsque
+
+
+=========================================================================
+
+Cluster #8:
+   - on
+   - ce
+   - une
+   - lui
+   - pas
+   - au
+   - sa
+   - son
+   - est
+   - c
+   - plus
+   - elle
+
+
+=========================================================================
+
+Cluster #9:
+   - a
+   - sous
+   - sans
+   - tout
+   - même
+   - par
+   - comme
+   - avec
+   - ses
+   - autre
+   - air
+   - puis
+   - aux
+   - ils
+   - si
+   - mais
+
+
+=========================================================================
+
+Cluster #10:
+   - or
+   - file
+   - mis
+   - première
+   - partie
+   - plaine
+   - suivait
+   - seul
+   - marchiennes
+   - dix
+   - pavé
+   - droit
+   - travers
+   - champs
+   - voyait
+   - sol
