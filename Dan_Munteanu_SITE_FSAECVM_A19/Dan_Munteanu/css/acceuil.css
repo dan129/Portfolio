@@ -1,0 +1,456 @@
+@font-face {
+	font-family: roboto;
+	src: url('../Font/Roboto_Condensed/RobotoCondensed-Bold.ttf');
+}
+
+html{
+	scroll-behavior: smooth;
+}
+body{
+	margin: 0px;
+	font-family: roboto;
+	line-height: 25px;
+	text-align: justify;
+}
+header{
+	height: 100vh;
+	width: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#headerAccueil{
+	background-image: url("../PHOTO/fond-accueil.jpg");
+}
+#headerEquipe{
+	background-image: url("../PHOTO/equipe.jpg");
+}
+#headerPartenaires{
+	background-image: url("../PHOTO/partenaires3.jpg");
+}
+#headerContact{
+	background-image: url("../PHOTO/contact.jpg");
+}
+#headerMedia video{
+	min-width: 100vw;
+	max-height: 100%;
+	width: auto;
+	height: auto;
+	overflow: hidden;
+
+}
+.containerVideo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.containerVideo video{
+	max-width: 45vw;
+	margin: 10px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+#logo img{
+	max-width: 150px;
+	position: absolute;
+	top: 5px;
+	left: 5px;
+}
+#logo h1{
+	height: 0;
+	width: 0;
+	padding: 0;
+	font-size: 0px;
+	z-index: -1;
+}
+nav ul{
+	margin: 0;
+	padding: 15px;
+	display: block;
+}
+
+a:hover{
+	color: red;
+	/*background-color: white;*/
+}
+#info{
+	background-color: #1e272e;
+	text-align:justify;
+	padding: 3%;
+}
+.images{
+	display: flex;
+	justify-content: space-around;
+}
+#info div{
+	padding: 15px;
+}
+#info video{
+	width: 90vw;
+	height: 70vh;
+}
+h1{
+	margin: 0;
+	color: white;
+	background-image: linear-gradient(to left,  #d35400,red);
+	/*-webkit-background-clip: text;*/
+	/*-webkit-text-fill-color: transparent;*/
+	/*border-bottom: 1px solid black;*/
+	border-radius: 25px;
+	text-align: center;
+	padding: 25px;
+}
+ul {
+	list-style-image: url('../PHOTO/triangle.png');
+  }
+footer{
+	width: auto;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*bottom: 0;*/
+}
+footer p{
+	color: white;
+}
+
+/*--EFFET TEXTE--*/
+#info p, #info li {
+	font-size: 22px;
+	background-image: linear-gradient(to left, #c0392b,  #d35400,#e74c3c, #e67e22,#f39c12, #f1c40f);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  }
+
+  /*--SCROLLBAR--*/
+  body::-webkit-scrollbar {
+    width: 30px;
+	}
+	body::-webkit-scrollbar-track {
+		-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+		background-color: #EA2027;
+	}
+	body::-webkit-scrollbar-thumb {
+		color: #EA2027;
+		background-image: url("../PHOTO/flag.png");
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+		border-radius: 25px;
+
+	/*background-color: darkgrey;*/
+		/*outline: 1px solid slategrey;*/
+	}
+
+@media only screen and (max-width:800px){
+	body{
+		margin: 0;
+	}
+	header{
+		height: 40vh;
+	}
+	#rolldown{
+		visibility: hidden;
+	}
+	#logo img{
+
+		height: auto;;
+		top: 10px;
+		left: 38vw;
+	}
+	#info{
+		text-align: justify;
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.containerVideo{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	.containerVideo video{
+		width: 80vw;
+		height: 50vh;
+	}
+	#enseignants, #membres{
+		text-align: center;
+	}
+	#image{
+		background-image: url("../PHOTO/accueil.JPG");
+		height: 200px;
+		background-size: cover;
+		background-position: center center;
+		background-repeat: no-repeat;
+
+	}
+	#info p img{
+		display: none;
+	}
+	.contact{
+		display: none;
+	}
+	.cvmFace{
+		display: none;
+	}
+	footer p{
+		font-size: 14px;
+	}
+	nav ul li a {
+		color: black;
+	}
+	#headerContact{
+		height: 50vh;
+	}
+	.cvmDos{
+		height: 50vh;
+		padding: 25px;
+		text-align: center;
+	}
+	/*--MENU HAMBURGER--*/
+	#ham{
+		height: 7vh;
+		background-color: black;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		font-size: 18px;
+	}
+	input~div:first-of-type{
+		margin-top: 15px;
+	}
+	input~div{
+		background-color: crimson;
+		height: 3px;
+		width: 28px;
+		margin-left: 5px;
+		margin-bottom: 4px;
+		border-radius: 10px;
+		transition: all 3s ease;
+	}
+	input{
+		z-index: 1;
+		opacity: 0;
+		margin: 0;
+		position:absolute;
+		height: 25px;
+		width: 25px;
+	}
+	nav{
+
+		max-height: 0;
+		overflow: hidden;
+		transition: all 3s ease;
+	}
+	nav ul{
+		list-style: none;
+		background-color: #f39c12;
+	}
+	input:checked~nav{
+		max-height: 40vh;
+	}
+	input:checked~div:first-of-type{
+		transform: rotate(40deg);
+		transform-origin: 0% 0%;
+	}
+	input:checked~div:nth-last-of-type(2){
+		opacity: 0;
+	}
+	input:checked~div:last-of-type{
+		transform: rotate(-40deg) translate(-2px);
+		transform-origin: 0% 0%;
+	}
+
+}
+@media only screen and (min-width:800px){
+	.principalContainer{
+		background-image: url("../PHOTO/fond-accueil.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		width: auto;
+		min-height: 1080px;
+	}
+	nav{
+		z-index: 1;
+		position: fixed;
+		top: 0;
+		display: flex;
+		justify-content: flex-end;
+		background-color: black;
+		height: 55px;
+		width: 100%;
+	}
+	nav li{
+		display: inline;
+	}
+	input,input~div{
+		display: none;
+	}
+	nav ul li a{
+		color: white;
+		padding: 20px;
+		text-decoration: none;
+		font-size: 25px;
+	}
+
+	#logo img{
+		max-width: 180px;
+	}
+	#info p img{
+		float: right;
+		height: 350px;
+		width: 450px;
+		background-position: center center;
+		padding: 15px;
+	}
+	#enseignants{
+		display: flex;
+		justify-content: center;
+
+	}
+	#membres {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: center;
+	}
+
+	/*
+	.info div[id='image']{
+		background-image: url("../PHOTO/accueil.JPG");
+		float: right;
+		height: 450px;
+		width: 550px;
+		background-position: center center;
+	}*/
+	.contact img, .cvmFace img{
+		height: 75px;
+		width: 75px;
+		border-radius: 50%;
+	}
+	.contact {
+		display: flex;
+		flex-direction: column;
+	}
+	.contact div:first-of-type{
+		display: flex;
+		flex-direction: row;
+	}
+	.contact a{
+		display: flex;
+		flex: 1;
+		justify-content: center;
+		align-items: center;
+		height: 40vh;
+		transition: all 1s ease;
+	}
+	.contact a[id='instagram']{
+		background-color: #e74c3c;
+	}
+	.contact a[id='instagram']:hover{
+		background-color: #EA2027;
+	}
+	.contact a[id='facebook']{
+		background-color: #3498db;
+	}
+	.contact a[id='facebook']:hover{
+		background-color: #1e3799;
+	}
+	.contact a[id='youtube']{
+		background-color: #c0392b;
+	}
+	.contact a[id='youtube']:hover{
+		background-color: red;
+	}
+
+	.cvm{
+		display: flex;
+		background-color: #ecf0f1;
+		position: relative;
+		height:50vh;
+		width: auto;
+	}
+	.cvmCarte{
+		position: absolute;
+		transform-style: preserve-3d;
+		transition: all 1s ease;
+		width: 100%;
+	}
+	.cvmCarte:hover{
+		transform: rotateY(180deg);
+	}
+	.cvmFace{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		position: absolute;
+		height: 50vh;
+		width: 100%;
+		backface-visibility: hidden;
+	}
+	.cvmDos{
+		position: absolute;
+		width: 100%;
+		backface-visibility: hidden;
+		transform: rotateY(180deg);
+		text-align: center;
+		padding-top: 5em;
+	}
+
+
+
+	/*------------*/
+	/*BOUTTON SCROLL DOWN PAGE PRINCIPALE*/
+	#rolldown:active{
+		transition: all 3s ease;
+	}
+	#rolldown{
+		font-size: 30px;
+		position: relative;
+		left: 45vw;
+		top: 45vh;
+		background: none;
+		color: red;
+		text-transform: uppercase;
+		text-decoration: none;
+		border: 0.2em solid red;
+		padding: 0.5em 2em;
+		/*transition: all 3s ease;*/
+	}
+	#rolldown::before {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 10%;
+		background: #222;
+		height: 0.3em;
+		right: 20%;
+		top: -0.21em;
+		transform: skewX(-45deg);
+		/*-webkit-transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);*/
+		transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+	}
+	#rolldown::after {
+		content: "";
+		display: block;
+		position: absolute;
+		width: 10%;
+		background: white;
+		height: 0.3em;
+		left: 20%;
+		bottom: -0.25em;
+		transform: skewX(45deg);
+		/*-webkit-transition: all 0.45 cubic-bezier(0.86, 0, 0.07, 1);*/
+		transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
+	}
+	#rolldown:hover::before {
+		right: 80%;
+		}
+	#rolldown:hover::after {
+	left: 80%;
+	}
+	/*----------------------*/
+}

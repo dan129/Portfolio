@@ -1,0 +1,45 @@
+OVERALL:
+	-Changer le logo
+	-Changer la photo
+
+Section ACCUEIL:
+	-Changer Twitter pour Instagram (formule_sae_cvm)
+	-Changer les photos
+	-Conserver la chaine Youtube
+	-Modifier la page Facebook (Formule CVM - Cégep du Vieux-Montréal)
+
+Section INFORMATION:
+	-Modifier les photos
+	-Peut conserver le même texte
+
+Section EQUIPE:
+	-Mettre à jour les photos d'équipes
+	-Conserver la description de Charles Fischer et de Sébastien Bérubé
+	-Enlever les autres descriptions (Ou que cela soit facilement modifiable pour une personne ayant peu de connaissance en programmation)
+
+Section PARTENAIRES:
+	-Mettre à jour les partenaires 
+	-Conserver le texte de la sous-section Financement
+	-Changer la sous-section Visibilité pour:
+
+"Ce projet offre une excellente visibilité aux commanditaires qui y contribuent. Les logotypes des collaborateurs et donateurs seront visibles sur toutes les publications ou lors de toutes les expositions où seront présentées les réalisations du FSAECVM. Nous participons à plusieurs évènements et activités de promotion et de recrutement. En voici quelques-uns :
+
+Compétition internationale Formula SAE® Michigan au Michigan International Speedway au mois de mai 2020 près de Détroit (120 universités, 5 000 visiteurs);
+Portes ouvertes du cégep du Vieux Montréal (10 000 visiteurs);
+Exposition de la voiture lors du Grand Prix du Canada (90 000 visiteurs);
+La voiture est exposée en permanence au rez-de-chaussée près de l’entrée principale du Cégep."
+
+	-Changer la sous-section Catégories de partenaires pour:
+
+"Collaborateur Titane: 5000$ et plus
+Collaborateur Or: 3000$ à 4999$
+Collaborateur Argent: 1500$ à 2999$
+Collaborateur Bronze:1499$ et moins"
+
+Section MEDIAS:
+	-Peut conserver les mêmes vidéos, si possible, rendre les ajouts de vidéo facile
+
+Section NOUS JOINDRE:
+	-Conserver les mêmes informations et rajouter la section suivante:
+
+"Il est aussi possible de nous rejoindre au local 1.17 en tout temps ou au local 1.12 les mercredis à 15h30! Au plaisir de vous rencontrer!"
