@@ -1,0 +1,187 @@
+* {
+	margin:0;
+	padding:0;
+}
+iframe{
+	height: 180px;
+	width: 400px;
+	position: absolute;
+	top: 5px;
+	left: 2px;
+	background-color: white;
+}
+html {
+	background-image: url("../images/heaven.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color:white
+}
+.afficherErreurs{
+	height: auto;
+	width: auto;
+	position: absolute;
+	top: 1px;
+	left: 75%;
+	display: none;
+	text-align: center;
+	background-color: #e74c3c;
+	color: #ecf0f1;
+	font-size: 10px;
+}
+.photoReponse{
+	height: 350px;
+	width: auto;
+}
+.resultatGame{
+	z-index: 1;
+	position: absolute;
+	left: 30%;
+	top: 20%;
+	width: 700px;
+	height: 450px;
+	display: none;
+	text-align: center;
+	color: black;
+	font-size: 28px;
+}
+#playerCards, #playerBoardCards, #enemyBoardCards {
+	display: flex;
+	align-items:stretch;
+	justify-content: center;
+	width:1000px;
+	height: 192px;
+	margin:30px auto;
+}
+body{
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	grid-template-rows: 1fr 2fr 1fr;
+}
+#player{
+	grid-row: 3/4;
+	display: flex;
+	justify-content: space-around;
+}
+#board{
+	grid-row: 2/3;
+}
+#enemy{
+	grid-row: 1/2;
+	display: flex;
+	justify-content: space-around;
+}
+#enemyPicture{
+	width: 150px;
+	height: 150px;
+	background-image: url("../images/jesusthumbsup.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	color: white;
+	text-shadow: #222f3e;
+}
+.uid, .id{
+	display: none;
+}
+.photo{
+	width: 80px;
+	height: 100px;
+}
+#playerGold, #playerHp, #enemyHp, #playerRemainingCardsCount, #enemyRemainingCardsCount{
+	width: 50px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	color: black;
+}
+#playerGold{
+	background-image: url("../images/coinRe.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#playerHp, #enemyHp{
+	background-image: url("../images/heartRe.png");
+}
+.buttonsAction div, .ressourcesContainer div{
+	margin: 5px;
+}
+.buttonsAction, .ressourcesContainer{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#endTurn, #heroPower{
+	width: 80px;
+	height: 80px;
+	background-image: url("../images/boutonRe.png");
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	text-align: center;
+	font-weight:bold;
+	color: black;
+	border-radius: 25px;
+}
+#remainingTime{
+	background-image: url("../images/sunRe.png");
+	width: 150px;
+	height: 150px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 28px;
+	color: black;
+}
+#playerRemainingCardsCount, #enemyRemainingCardsCount{
+	background-color: #222f3e;
+	color: white;
+}
+.card {
+	height: 180px;
+	width: 130px;
+	border:1px solid white;
+	background-color: #222f3e;
+	padding:5px 5px 15px 5px;
+	text-align:center;
+	margin:0 10px;
+	transition: 1s;
+	box-shadow: 0 0 10px white;
+}
+.card .mechanics{
+	font-size:12px;
+	height: 50px;
+}
+.card .hp{
+	background-image: url("../images/heartRe.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 25px;
+	width: 25px;
+}
+.card .cost{
+	display: flex;
+	justify-content: left;
+	width: 20px;
+	padding-left: 2px;
+	background-image: url("../images/coinRe.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+.card .hp, .card .atk, .card .cost {
+	font-size:18px;
+	font-weight:bold;
+	text-shadow: 0 0 14px black;
+}
+#basCarte{
+	display: flex;
+	justify-content: space-between;
+}
+.card:hover, #enemyPicture:hover, #endTurn:hover , #heroPower:hover {
+	cursor:pointer;
+	background-color:#576574;
+	box-shadow: 0 0 10px #32ff7e;
+}

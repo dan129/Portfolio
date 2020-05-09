@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	background-image: url("../images/maison.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: auto;
+}
+.login-form-frame{
+	position: relative;
+	top: 30vh;
+	left: 40vw;
+	background-image: url("../images/confitti.jpg");
+	background-position: center;
+	background-color: aqua;
+	border-radius: 25px;
+	height: 150px;
+	width: 300px;
+}
+.form-input{
+	display: flex;
+	justify-content: center;
+	height: 35px;
+}
+
+input{
+	border-radius: 15px;
+	border: 1px solid black;
+	margin: 5px;
+  }
+#connexion{
+	height: 60px;
+	width: 60px;
+	background-position: center;
+}
+
+button{
+	background-color: #F79F1F;
+  border: none;
+  color: white;
+  padding: 15px 28px;
+  text-align: center;
+  font-size: 16px;
+}
+
+#canvas{
+	position: relative;
+	top: 58vh;
+	left: 0;
+}
