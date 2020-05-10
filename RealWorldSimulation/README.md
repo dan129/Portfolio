@@ -2,6 +2,11 @@
 
 Ce programme vise à simuler un environnement naturel le plus réaliste possible. Les animaux et les végétaux tenteront de survivre et de se reproduire dans un environnement hostile.
 
+![Accueil](./accueilSimulation.png)
+
+![Simulation](./simulation.png)
+
+
 ## Instructions
 
 * Double cliquez sur le fichier sim_controleur.py pour démarrer le programme.
