@@ -4,7 +4,7 @@ Ce programme vise à simuler un environnement naturel le plus réaliste possible
 
 ![Accueil](./accueilSimulation.png)
 
-
+![Simulation](./simulation.png)
 
 
 ## Instructions
