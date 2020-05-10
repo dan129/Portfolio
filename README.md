@@ -2,6 +2,7 @@
 
 ## Online card game
   ![Login](./Online_Card_Game_Client/loginMagix.png)
+  ![Loby](./Online_Card_Game_Client/loby.png)
   ![Game](./Online_Card_Game_Client/gameMagix.png)
   
 ## HTML/CSS Web Site
